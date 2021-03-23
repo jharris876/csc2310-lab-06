@@ -100,9 +100,7 @@ through the code.
 
 #### Find the index
 Using the debugger, use a combination of setting breakpoints, stepping over various statements, the run button, etc.,  
-use the ``AirportApp City test`` run configuration to find the index ``i`` found for ``Nashville`` 
-in the ``findAirportByCity`` method.
-**Add your response to the quiz for Lab 06.**
+use the ``AirportApp City test`` run configuration to find the index ``i`` found for ``Nashville`` in the ``findAirportByCity`` method. **Add your response to the quiz for Lab 06.**
 
 #### Change values
 The debugger will allow you change the values of variables in order to modify the behavior of a program.
